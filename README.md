@@ -74,6 +74,7 @@ int main(void) {
 int yywrap(void) {
     return 1;
 }
+
 ```
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/d6f1c86f-ecb4-4f56-8150-471c92007a0c)
